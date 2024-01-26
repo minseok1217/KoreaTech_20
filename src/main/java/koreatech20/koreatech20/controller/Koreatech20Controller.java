@@ -18,4 +18,9 @@ public class Koreatech20Controller {
     public String home(){
         return "login";
     }
+
+    @GetMapping("/book")
+    public String book(){
+        return "book";
+    }
 }
