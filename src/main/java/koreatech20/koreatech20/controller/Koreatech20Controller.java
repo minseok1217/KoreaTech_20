@@ -13,4 +13,9 @@ public class Koreatech20Controller {
         model.addAttribute("name", name);
         return "hello";
     }
+
+    @GetMapping("/login")
+    public String home(){
+        return "login";
+    }
 }
