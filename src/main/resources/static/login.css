@@ -1,0 +1,37 @@
+#login_frame {
+    border: 2px solid blue;
+    margin-left: 20%;
+    margin-right: 20%;
+    /* margin: ; */
+}
+
+#user_name, #password{
+    width: 200px;
+    height: 20px;
+}
+#login_input{
+    margin-left: 35%;
+    margin-right: 40%;
+}
+#ex {
+    /* align: center; */
+    text-align: center;
+}
+#pass{
+    width: 300px;
+}
+#id_ex, #pass_ex {
+    margin-bottom: 0%;
+    text-align: left;
+    font-size:small;
+}
+#explain{
+    font-size: small;
+    color: white;
+    background-color: blue;
+    margin-bottom: 0%;
+}
+#help{
+    margin-left: 35%;
+    margin-top: 1%;
+}
