@@ -36,5 +36,9 @@ out/
 ### VS Code ###
 .vscode/
 
+<<<<<<< HEAD
 ## PPT ###
+=======
+### ppt ###
+>>>>>>> main
 발표/

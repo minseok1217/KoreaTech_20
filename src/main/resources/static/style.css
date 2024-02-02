@@ -1,49 +1,74 @@
 .topbox {
-    height : 300px;
-    border : solid;
-    padding : 10px;
+    height: 300px;
+    border: solid;
+    padding: 10px;
 }
-.logo{
-    float : left;
-    width : 120px;
+
+.logo {
+    float: left;
+    width: 120px;
     height: 20px;
-    border : solid;
-    margin : 10px;
+    border: solid;
+    margin: 10px;
     padding-top: 10px;
-    padding-bottom:10px;
+    padding-bottom: 10px;
 }
-.login{
-    float : right;
-    width : 120px;
+
+.login {
+    float: right;
+    width: 120px;
     height: 20px;
-    border : solid;
-    margin : 10px;
+    border: solid;
+    margin: 10px;
     padding-top: 10px;
-    padding-bottom:10px;
+    padding-bottom: 10px;
 }
-.Search{
-    border : solid;
-    margin : 150px;
+
+.Search {
+
+    margin: 100px;
     padding-top: 10px;
-    padding-bottom:10px;
+    padding-bottom: 10px;
 }
-.bottombox{
-    height : 650px;
-    border : solid;
+
+.search {
+    padding-top: 50px;
+    display: flex;
+    height: 100px;
 }
-.notice{
-    border : solid;
+
+.search input {
+    width: 1500px;
+    height: 30px;
+    font-size: 18px;
+    border: solid;
 }
-.notice{
-    margin : 10px;
-    height : 300px;
-    border : solid;
+
+.search button {
+    width: 170px;
+    font-size: 18px;
+    border: solid;
+    height: 40px;
+    border-radius: 15px;
+    cursor: pointer;
 }
-.BookRecommend{
-    margin : 10px;
-    height : 300px;
-    border : solid;
+.bottombox {
+    height: 600px;
+    border: solid;
 }
-.address{
+
+.notice {
+    border: solid;
+    margin: 10px;
+    height: 250px;
+}
+
+.BookRecommend {
+    margin: 10px;
+    height: 250px;
+    border: solid;
+}
+
+.address {
     text-align: center;
 }
